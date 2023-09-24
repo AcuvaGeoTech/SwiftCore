@@ -1,0 +1,77 @@
+# Ignore database files
+db.sqlite3
+
+# Ignore log files
+*.log
+
+# Ignore environment-specific settings
+.env
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore development and local configuration
+*.swp
+*.swo
+*.swn
+*.swm
+*.swl
+
+# Ignore virtual environment directory
+venv/
+env/
+.env/
+
+# Ignore user uploads and media files
+media/
+
+# Ignore generated files and directories
+node_modules/
+dist/
+build/
+
+# Ignore Python package build directories
+*.egg-info/
+dist/
+.build/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore editor/IDE files
+.idea/
+.vscode/
+
+# Ignore migration files for database changes
+migrations/
+
+# Ignore local settings
+local_settings.py
+
+# Ignore pipenv/virtualenv files
+Pipfile
+Pipfile.lock
+.venv/
+
+# Ignore cache files
+__pycache__/
+.cache/
+.cached_data/
+
+# Ignore database backup files
+*.backup
+*.bak
+
+# Ignore system files
+*.swp
+*.swo
+
+# Ignore compiled files
+*.pyc
+
+# Ignore test coverage reports
+htmlcov/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
